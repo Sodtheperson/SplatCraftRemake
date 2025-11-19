@@ -1,6 +1,7 @@
 {
   "itemGroup.splatcraftremake": "Example Mod Tab",
   "block.splatcraftremake.example_block": "Example Block",
+  "block.splatcraftremake.test_block": "i hope this gets a new name now",
   "item.splatcraftremake.example_item": "Example Item",
 
   "splatcraftremake.configuration.title": "SplatCraftRemake Configs",
